@@ -1,0 +1,465 @@
+﻿  imgui_widgets.cpp
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\gui.h(57,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'ImGui/imgui_widgets.cpp')
+  
+  EntryPoints.cpp
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(63,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(63,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(63,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(110,28): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(115,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(177,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(178,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(179,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(181,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(182,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(183,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(185,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(186,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(187,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(188,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(189,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(190,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(192,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(193,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(194,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(195,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(197,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(198,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(199,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(200,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(202,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(203,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(204,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(205,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(256,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(257,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(258,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(259,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(260,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(261,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(264,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(265,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(266,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(269,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(270,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(271,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(274,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(275,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(276,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(279,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(280,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(281,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(296,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\vectors.hpp(296,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\Drivers.h(40,31): warning C4129: '{': unrecognized character escape sequence
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(5,13): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(6,13): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(7,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(9,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(12,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(14,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(18,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(32,15): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(36,13): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(37,13): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(39,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(41,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(43,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(44,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(45,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(46,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(48,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(50,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(53,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(55,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(57,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(59,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(60,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(61,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(65,13): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(67,15): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(69,13): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(71,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(73,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(74,15): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(76,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(78,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(80,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(82,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(84,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(86,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(88,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(89,15): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(91,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(97,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(99,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(101,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(103,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(105,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(107,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(109,13): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(111,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(117,15): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(121,13): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(123,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(124,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(127,15): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(129,13): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(131,13): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(131,33): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(133,15): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(135,15): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(137,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(138,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(143,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(145,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(147,13): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(149,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(151,13): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(153,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(155,13): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(157,13): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(159,13): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(161,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(163,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(165,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(167,13): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(169,13): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(171,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(173,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(175,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(177,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(179,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(181,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(183,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(185,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(187,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(190,15): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(191,15): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(192,15): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(193,15): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(194,15): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(195,15): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(196,15): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(197,15): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(198,15): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(199,16): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(208,15): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\globals.hpp(209,15): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\import.hpp(3,13): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\import.hpp(4,12): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\keybind.hpp(7,19): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\keybind.hpp(9,19): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\keybind.hpp(10,19): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\keybind.hpp(12,12): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\keybind.hpp(14,12): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\keybind.hpp(16,19): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'EntryPoints.cpp')
+  
+C:\Users\TJ\Desktop\Frozen slotted\frozen slotted updated\keybind.hpp(16,19): error C1003: error count exceeds 100; stopping compilation
+  (compiling source file 'EntryPoints.cpp')
+  
+  Generating Code...
